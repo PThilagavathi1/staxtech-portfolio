@@ -1,6 +1,6 @@
 # 🌐 Personal Portfolio Website
 
-This is my personal portfolio website built using **HTML, CSS, and JavaScript**.  
+This is my personal portfolio website built using **HTML, CSS**.
 It showcases my skills, projects, and contact information in a simple and responsive design.
 
 ## ✨ Features
@@ -15,7 +15,6 @@ It showcases my skills, projects, and contact information in a simple and respon
 ## 🛠️ Technologies Used
 - HTML5  
 - CSS3  
-- JavaScript  
 
 ## 📁 Project Structure
 
@@ -23,7 +22,6 @@ It showcases my skills, projects, and contact information in a simple and respon
 
 │── index.html
 │── style.css
-│── script.js
 │── assets/
 │── resume.pdf
 
