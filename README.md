@@ -20,6 +20,7 @@ It showcases my skills, projects, and contact information in a simple and respon
 ## 📁 Project Structure
 
 /portfolio
+
 │── index.html
 │── style.css
 │── script.js
@@ -36,9 +37,9 @@ Web Development, Python, and Machine Learning.
 I enjoy building real-world projects and learning new technologies.
 
 ## 📬 Contact
-- Email: yourmail@gmail.com  
-- LinkedIn: your-link  
-- GitHub: https://github.com/your-username  
+- Email: thilagavathi.connect@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/thilagavathi-panneerselvam?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- GitHub: https://github.com/your-Thilagavathi1
 
 ---
 
